@@ -1,35 +1,84 @@
-# 💫 About Me:
-Mad scientist , passionate about electronics and artificial intelligence driven hardware implmentation as well as trying to be perfect in HFT.  
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sougata-chandra-875716224)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sougatachandra338@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00F7FF&height=250&section=header&text=Sougata%20Chandra&fontSize=45&fontColor=00F7FF&animation=twinkling&fontAlignY=35" />
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Driven+Hardware+Architect;Ultra+Low+Latency+System+Designer;High+Frequency+Trading+Enthusiast;SystemVerilog+%7C+C%2B%2B+%7C+AI+Acceleration" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sougata0204&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sougata0204&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sougata0204&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sougata0204&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sougata0204&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+
+</div>
+
+---
+
+# 🤖 About Me
+
+⚡ Electronics + AI Accelerated Hardware  
+🧠 Deep System Level Thinker  
+🚀 Ultra Low Latency Architecture  
+📊 HFT Performance Engineering  
+🔬 Research Focused Innovator  
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sougata-chandra-875716224)
+[![Email](https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:sougatachandra338@gmail.com)
+
+</div>
+
+---
+
+# ⚙️ Tech Matrix
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00F7FF?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00F7FF?style=for-the-badge&logo=c%2B%2B&logoColor=black)
+![Python](https://img.shields.io/badge/Python-00F7FF?style=for-the-badge&logo=python&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-00F7FF?style=for-the-badge&logo=PyTorch&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-00F7FF?style=for-the-badge&logo=opencv&logoColor=black)
+
+</div>
+
+---
+
+# 📊 Neural Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sougata0204&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sougata0204&theme=tokyonight&hide_border=true&background=000000" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sougata0204&theme=react-dark&bg_color=000000&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="350"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Designing deterministic silicon for probabilistic intelligence ⚡
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0f2027,100:000000&height=120&section=footer"/>
+
