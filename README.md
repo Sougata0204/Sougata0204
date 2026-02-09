@@ -53,7 +53,7 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"/> About Me <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/>
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"/> About Me <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
 
 <div align="center">
 
@@ -64,38 +64,46 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212747919-84b42c85-a3e5-42c4-89d0-60c3e4eb3c35.gif" width="300"/>
 
-```yaml
-🔷 name: Sougata Chandra
-🌍 location: India 🇮🇳
-⚡ current_focus: GPU Microarchitecture & AI Hardware
+<br/>
 
-🛠️ expertise:
-  hardware:
-    - ⚙️ RTL Design & Verification
-    - 🔧 Pipeline Optimization
-    - 📟 FPGA Prototyping
-    - 🧬 Microarchitecture Design
-    
-  acceleration:
-    - 🧠 AI/ML Hardware Integration
-    - 💎 Tensor Core Design
-    - 📊 Memory Hierarchy Optimization
-    - ⏱️ Deterministic Execution
-    
-  domains:
-    - 📈 High Frequency Trading
-    - ⚡ Ultra Low Latency
-    - 🔌 Custom Accelerators
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25"/> 👋 Hey there! I'm **Sougata Chandra** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25"/>
 
-💭 philosophy: "Silicon dreams in binary"
-```
+> *A passionate **Silicon Architect** and **RTL Engineer** from India 🇮🇳, dedicated to pushing the boundaries of hardware design and AI acceleration.*
+
+<br/>
+
+#### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/> 🎯 **What I Do** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/>
+
+I architect **next-generation compute systems** at the silicon level, specializing in:
+
+- ⚙️ **RTL Design & Verification** — Building the digital logic that powers tomorrow's processors
+- 🔧 **Pipeline Optimization** — Squeezing every nanosecond out of execution paths  
+- 📟 **FPGA Prototyping** — Bringing silicon dreams to programmable reality
+- 🧬 **Microarchitecture Design** — Crafting the blueprint of intelligent hardware
+
+<br/>
+
+#### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/> 🧠 **My Focus Areas** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/>
+
+| Domain | Expertise |
+|--------|-----------|
+| **AI Hardware** | Tensor Core Design, Neural Network Accelerators |
+| **Memory Systems** | Hierarchy Optimization, Deterministic Routing |
+| **Trading Systems** | Ultra-Low Latency, HFT Infrastructure |
+| **Custom Compute** | Application-Specific Accelerators |
+
+<br/>
+
+#### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/> 💭 **Philosophy** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/>
+
+> *"Silicon dreams in binary, executes in parallel, and thinks deterministically."*
 
 <br clear="right"/>
 
 <!-- Animated Neon Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> Technical Arsenal <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30"/>
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> Technical Arsenal <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
 
 <div align="center">
 
@@ -104,41 +112,41 @@
 
 <br/><br/>
 
-### ⚡ Hardware & RTL
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> ⚡ Hardware Description Languages & RTL <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
 
 <!-- Animated Circuit Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
 
-<br/>
+<br/><br/>
 
 <table>
 <tr>
 <td align="center" width="140">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2bc.gif" width="60"/>
-<br/><img src="https://img.shields.io/badge/-SystemVerilog-00F7FF?style=flat-square&logoColor=black" height="25"/>
+<br/><img src="https://img.shields.io/badge/-SystemVerilog-00F7FF?style=for-the-badge&logoColor=black" height="28"/>
 </td>
 <td align="center" width="140">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2bc.gif" width="60"/>
-<br/><img src="https://img.shields.io/badge/-Verilog-00D4AA?style=flat-square&logoColor=black" height="25"/>
+<br/><img src="https://img.shields.io/badge/-Verilog-00D4AA?style=for-the-badge&logoColor=black" height="28"/>
 </td>
 <td align="center" width="140">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2bc.gif" width="60"/>
-<br/><img src="https://img.shields.io/badge/-VHDL-00B894?style=flat-square&logoColor=black" height="25"/>
+<br/><img src="https://img.shields.io/badge/-VHDL-00B894?style=for-the-badge&logoColor=black" height="28"/>
 </td>
 <td align="center" width="140">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2bc.gif" width="60"/>
-<br/><img src="https://img.shields.io/badge/-FPGA-FF6B6B?style=flat-square&logoColor=white" height="25"/>
+<br/><img src="https://img.shields.io/badge/-FPGA-FF6B6B?style=for-the-badge&logoColor=white" height="28"/>
 </td>
 <td align="center" width="140">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2bc.gif" width="60"/>
-<br/><img src="https://img.shields.io/badge/-RTL-845EF7?style=flat-square&logoColor=white" height="25"/>
+<br/><img src="https://img.shields.io/badge/-RTL%20Design-845EF7?style=for-the-badge&logoColor=white" height="28"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-### 💻 Programming Languages
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 💻 Programming Languages <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
 
 <!-- Animated Cat Walking -->
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400"/>
@@ -148,23 +156,23 @@
 <table>
 <tr>
 <td align="center" width="140">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70"/>
+<img src="https://skillicons.dev/icons?i=c" width="65" height="65"/>
 <br/><b>C</b>
 </td>
 <td align="center" width="140">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65"/>
 <br/><b>C++</b>
 </td>
 <td align="center" width="140">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70"/>
+<img src="https://skillicons.dev/icons?i=python" width="65" height="65"/>
 <br/><b>Python</b>
 </td>
 <td align="center" width="140">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70"/>
+<img src="https://skillicons.dev/icons?i=rust" width="65" height="65"/>
 <br/><b>Rust</b>
 </td>
 <td align="center" width="140">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70"/>
+<img src="https://skillicons.dev/icons?i=bash" width="65" height="65"/>
 <br/><b>Bash</b>
 </td>
 </tr>
@@ -172,7 +180,7 @@
 
 <br/>
 
-### 🧠 AI/ML & Deep Learning
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 🧠 AI/ML & Deep Learning <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
 
 <!-- Animated Brain/Neural Network -->
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="700"/>
@@ -182,19 +190,19 @@
 <table>
 <tr>
 <td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=pytorch" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65"/>
 <br/><b>PyTorch</b>
 </td>
 <td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65"/>
 <br/><b>TensorFlow</b>
 </td>
 <td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=linux" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=linux" width="65" height="65"/>
 <br/><b>Linux</b>
 </td>
 <td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=git" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65"/>
 <br/><b>Git</b>
 </td>
 </tr>
@@ -210,12 +218,30 @@
 <!-- Animated Neon Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"/> Featured Projects <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="35"/>
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"/> Featured Projects <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="35"/> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
 
 <div align="center">
 
 <!-- Animated Rocket -->
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="400"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="28"/> 🧊 GridX³ — 3D Cube-Mesh GPU Microarchitecture <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="28"/>
+
+### ⭐ **FLAGSHIP PROJECT** ⭐
+
+<img src="https://img.shields.io/badge/🔥_STATUS-ACTIVE_DEVELOPMENT-00F7FF?style=for-the-badge&labelColor=000000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⚡_TYPE-GPU_MICROARCHITECTURE-845EF7?style=for-the-badge&labelColor=000000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🧬_CORES-4000+-FF6B6B?style=for-the-badge&labelColor=000000"/>
 
 <br/><br/>
 
@@ -223,41 +249,99 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sougata0204&repo=GridX3&theme=radical&bg_color=0d1117&border_color=00F7FF&icon_color=00F7FF&title_color=00F7FF&text_color=ffffff&hide_border=false" />
 </a>
 
-</div>
-
-### 🧊 GridX³ — 3D Cube-Mesh GPU Microarchitecture
-
-<img align="right" src="https://img.shields.io/badge/STATUS-ACTIVE-00F7FF?style=for-the-badge&labelColor=000000" />
-
-<div align="center">
+<br/><br/>
 
 <!-- Animated Chip Processing -->
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="300"/>
 
 </div>
 
+<br/>
+
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 🏗️ **Architecture Overview** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                      GRIDX³ ARCHITECTURE                        │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│    ┌───┐ ┌───┐ ┌───┐ ┌───┐      4×4×4 Cube Mesh Topology       │
-│    │ ● │─│ ● │─│ ● │─│ ● │                                      │
-│    └─│─┘ └─│─┘ └─│─┘ └─│─┘      ● 4000+ Logical Cores          │
-│      │     │     │     │        ● Deterministic Memory Routing  │
-│    ┌─┴─┐ ┌─┴─┐ ┌─┴─┐ ┌─┴─┐      ● Zero-Contention Design       │
-│    │ ● │─│ ● │─│ ● │─│ ● │      ● Ultra-Low Latency Compute    │
-│    └─│─┘ └─│─┘ └─│─┘ └─│─┘                                      │
-│      │     │     │     │        Technologies:                   │
-│    ┌─┴─┐ ┌─┴─┐ ┌─┴─┐ ┌─┴─┐      ├── SystemVerilog RTL          │
-│    │ ● │─│ ● │─│ ● │─│ ● │      ├── C++ Verification Layer     │
-│    └───┘ └───┘ └───┘ └───┘      └── Architectural Simulation   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║                           GRIDX³ MICROARCHITECTURE                                ║
+╠═══════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                   ║
+║         ┌─────────────────────────────────────────────────────────────┐           ║
+║         │                    4×4×4 CUBE MESH TOPOLOGY                 │           ║
+║         │                                                             │           ║
+║         │      Layer 0          Layer 1          Layer 2          Layer 3        ║
+║         │     ┌──┬──┬──┬──┐   ┌──┬──┬──┬──┐   ┌──┬──┬──┬──┐   ┌──┬──┬──┬──┐      ║
+║         │     │██│██│██│██│   │██│██│██│██│   │██│██│██│██│   │██│██│██│██│      ║
+║         │     ├──┼──┼──┼──┤   ├──┼──┼──┼──┤   ├──┼──┼──┼──┤   ├──┼──┼──┼──┤      ║
+║         │     │██│██│██│██│   │██│██│██│██│   │██│██│██│██│   │██│██│██│██│      ║
+║         │     ├──┼──┼──┼──┤   ├──┼──┼──┼──┤   ├──┼──┼──┼──┤   ├──┼──┼──┼──┤      ║
+║         │     │██│██│██│██│   │██│██│██│██│   │██│██│██│██│   │██│██│██│██│      ║
+║         │     ├──┼──┼──┼──┤   ├──┼──┼──┼──┤   ├──┼──┼──┼──┤   ├──┼──┼──┼──┤      ║
+║         │     │██│██│██│██│───│██│██│██│██│───│██│██│██│██│───│██│██│██│██│      ║
+║         │     └──┴──┴──┴──┘   └──┴──┴──┴──┘   └──┴──┴──┴──┘   └──┴──┴──┴──┘      ║
+║         │              ↑               ↑               ↑               ↑          ║
+║         │              └───────────────┴───────────────┴───────────────┘          ║
+║         │                        INTER-LAYER MESH LINKS                           ║
+║         └─────────────────────────────────────────────────────────────┘           ║
+║                                                                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 🎯 **Key Features** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔷 **Compute Architecture**
+- ⚡ **4000+ Logical Execution Cores**
+- 🧊 **4×4×4 3D Cube Mesh Topology**
+- 🔄 **Zero-Contention Memory Access**
+- ⏱️ **Deterministic Execution Pipeline**
+- 🎛️ **Configurable Compute Units**
+
+</td>
+<td width="50%">
+
+#### 🔶 **Memory Subsystem**
+- 📊 **Deterministic Memory Routing**
+- 🔗 **Direct Core-to-Memory Links**
+- 💾 **Hierarchical Cache Design**
+- 🚀 **Ultra-Low Latency Access**
+- 🧬 **Predictable Bandwidth**
+
+</td>
+</tr>
+</table>
+
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 🛠️ **Technology Stack** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
+
+```
+┌────────────────────────────────────────────────────────────────────────────┐
+│  📐 RTL DESIGN          │  SystemVerilog for synthesizable hardware logic │
+│  🔧 VERIFICATION        │  C++ algorithmic validation & testbenches       │
+│  📟 PROTOTYPING         │  FPGA implementation & timing closure           │
+│  📊 SIMULATION          │  Architectural performance modeling             │
+│  🎯 TARGET              │  ASIC tape-out ready design                     │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 📈 **Performance Highlights** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
+
+<div align="center">
+
+| Metric | Specification |
+|:------:|:-------------:|
+| **Topology** | 4×4×4 Cube Mesh |
+| **Core Count** | 4000+ Execution Units |
+| **Memory Model** | Deterministic Routing |
+| **Pipeline Stages** | Multi-Stage Execution |
+| **Verification** | C++ + SystemVerilog |
+| **Target Platform** | FPGA → ASIC |
+
+</div>
+
 <details>
-<summary><b>🔍 View Technical Specifications</b></summary>
+<summary><b>🔍 Click to View Detailed Technical Specifications</b></summary>
 <br/>
 
 <div align="center">
@@ -267,61 +351,76 @@
 
 </div>
 
-| Component | Specification |
-|-----------|--------------|
-| **Topology** | 4×4×4 Cube Mesh Network |
-| **Core Count** | 4000+ Logical Execution Units |
-| **Memory** | Deterministic Routing Protocol |
-| **Pipeline** | Multi-Stage Execution Engine |
-| **Verification** | C++ Algorithm Validation |
-| **Target** | FPGA Prototyping / ASIC Tape-out |
+#### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/> 🧬 **Microarchitectural Details** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/>
+
+| Component | Implementation |
+|-----------|---------------|
+| **Topology Type** | 3D Cube Mesh Network-on-Chip |
+| **Node Configuration** | 4×4×4 = 64 Physical Nodes |
+| **Cores per Node** | 62+ Logical Execution Units |
+| **Total Core Count** | 4000+ Parallel Compute Cores |
+| **Interconnect** | Deterministic Mesh Routing |
+| **Memory Hierarchy** | L1 → L2 → Global Memory |
+| **Execution Model** | SIMT-style with Extensions |
+| **Verification Suite** | C++ Reference + RTL Co-sim |
+| **Synthesis Target** | FPGA Prototyping / ASIC Flow |
+
+#### ⚡ **Design Philosophy**
+
+> *"Zero-contention by design, deterministic by architecture, scalable by topology."*
 
 </details>
 
 ---
 
-### ⚡ AI Signal Processing Engine
+<br/>
 
-<img align="right" src="https://img.shields.io/badge/STATUS-RESEARCH-845EF7?style=for-the-badge&labelColor=000000" />
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> ⚡ AI Signal Processing Engine <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-RESEARCH-845EF7?style=for-the-badge&labelColor=000000"/>
 
 <!-- Neural Network Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="300"/>
 
 </div>
 
-> Hardware-accelerated tensor operations with optimized matrix execution and real-time compute capabilities.
+> **Hardware-accelerated tensor operations** with optimized matrix execution and real-time compute capabilities for edge AI deployment.
 
-- 🔹 Hardware-level tensor validation
-- 🔹 Optimized matrix execution pipelines  
-- 🔹 Latency-aware memory hierarchy
-- 🔹 Real-time inference acceleration
+| Feature | Description |
+|---------|-------------|
+| 🔹 **Tensor Validation** | Hardware-level correctness checking |
+| 🔹 **Matrix Pipelines** | Optimized systolic array execution |
+| 🔹 **Memory Hierarchy** | Latency-aware cache organization |
+| 🔹 **Real-time Inference** | Sub-millisecond neural network execution |
 
 ---
 
-### 🔬 FPGA Experimental Lab
-
-<img align="right" src="https://img.shields.io/badge/STATUS-ONGOING-FF6B6B?style=for-the-badge&labelColor=000000" />
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 🔬 FPGA Experimental Lab <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ONGOING-FF6B6B?style=for-the-badge&labelColor=000000"/>
 
 <!-- Animated Circuit Board -->
 <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="300"/>
 
 </div>
 
-> Custom logic testing platform for architecture exploration and performance benchmarking.
+> **Custom logic testing platform** for architecture exploration, performance benchmarking, and pre-silicon validation workflows.
 
-- 🔹 Timing constraint optimization
-- 🔹 Pipelined execution models
-- 🔹 Architecture benchmarking suite
-- 🔹 Power analysis & optimization
+| Feature | Description |
+|---------|-------------|
+| 🔹 **Timing Optimization** | Meeting aggressive clock constraints |
+| 🔹 **Pipeline Models** | Exploring execution trade-offs |
+| 🔹 **Benchmarking** | Architecture comparison studies |
+| 🔹 **Power Analysis** | Energy-efficient design exploration |
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"/> GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"/> GitHub Analytics <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
 
 <div align="center">
 
@@ -347,7 +446,7 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## 🏆 Achievements
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> 🏆 Achievements <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
 
 <div align="center">
 
@@ -363,7 +462,7 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294025-8c12e8a4-73bb-4b71-af24-56e9fe0ef95a.gif" width="35"/> Connect With Me
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/235294025-8c12e8a4-73bb-4b71-af24-56e9fe0ef95a.gif" width="35"/> Connect With Me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
 
 <div align="center">
 
@@ -391,17 +490,15 @@
 
 <br/><br/>
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│    💡 Open to collaborations on:                                    │
-│       ⚡ GPU/TPU Microarchitecture Research                         │
-│       🧠 AI Hardware Acceleration Projects                          │
-│       📟 FPGA-based Custom Compute Solutions                        │
-│       ⏱️  Low-Latency System Design                                  │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 💡 **Open to Collaborations** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
+
+| Area | Interest |
+|:----:|:--------:|
+| ⚡ | GPU/TPU Microarchitecture Research |
+| 🧠 | AI Hardware Acceleration Projects |
+| 📟 | FPGA-based Custom Compute Solutions |
+| ⏱️ | Low-Latency System Design |
+| 🔬 | Silicon Prototyping & Tape-out |
 
 </div>
 
@@ -427,8 +524,10 @@
 <!-- Animated Dancing Cats -->
 <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3c9acc3.gif" width="100"/>
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8c3ce6dd4f8f.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50"/>
 <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3c9acc3.gif" width="100"/>
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8c3ce6dd4f8f.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50"/>
 <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3c9acc3.gif" width="100"/>
 
 <br/><br/>
