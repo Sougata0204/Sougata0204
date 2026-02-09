@@ -53,7 +53,7 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"/> About Me <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> About Me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
 
 <div align="center">
 
@@ -66,13 +66,13 @@
 
 <br/>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25"/> 👋 Hey there! I'm **Sougata Chandra** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25"/>
+### 👋 Hey there! I'm **Sougata Chandra**
 
 > *A passionate **Silicon Architect** and **RTL Engineer** from India 🇮🇳, dedicated to pushing the boundaries of hardware design and AI acceleration.*
 
 <br/>
 
-#### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/> 🎯 **What I Do** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/>
+#### 🎯 **What I Do**
 
 I architect **next-generation compute systems** at the silicon level, specializing in:
 
@@ -83,7 +83,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 
 <br/>
 
-#### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/> 🧠 **My Focus Areas** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/>
+#### 🧠 **My Focus Areas**
 
 | Domain | Expertise |
 |--------|-----------|
@@ -94,7 +94,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 
 <br/>
 
-#### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/> 💭 **Philosophy** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/>
+#### 💭 **Philosophy**
 
 > *"Silicon dreams in binary, executes in parallel, and thinks deterministically."*
 
@@ -103,7 +103,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 <!-- Animated Neon Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> Technical Arsenal <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> Technical Arsenal <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
 
 <div align="center">
 
@@ -112,7 +112,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 
 <br/><br/>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> ⚡ Hardware Description Languages & RTL <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
+### ⚡ Hardware Description Languages & RTL
 
 <!-- Animated Circuit Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
@@ -146,7 +146,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 
 <br/>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 💻 Programming Languages <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
+### 💻 Programming Languages
 
 <!-- Animated Cat Walking -->
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400"/>
@@ -180,7 +180,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 
 <br/>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 🧠 AI/ML & Deep Learning <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
+### 🧠 AI/ML & Deep Learning
 
 <!-- Animated Brain/Neural Network -->
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="700"/>
@@ -218,7 +218,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 <!-- Animated Neon Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"/> Featured Projects <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="35"/> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> Featured Projects <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
 
 <div align="center">
 
@@ -233,7 +233,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="28"/> 🧊 GridX³ — 3D Cube-Mesh GPU Microarchitecture <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="28"/>
+## 🧊 GridX³ — 3D Cube-Mesh GPU Microarchitecture
 
 ### ⭐ **FLAGSHIP PROJECT** ⭐
 
@@ -258,7 +258,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 
 <br/>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 🏗️ **Architecture Overview** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
+### 🏗️ **Architecture Overview**
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════╗
@@ -286,7 +286,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 ╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 🎯 **Key Features** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
+### 🎯 **Key Features**
 
 <table>
 <tr>
@@ -313,7 +313,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 </tr>
 </table>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 🛠️ **Technology Stack** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
+### 🛠️ **Technology Stack**
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────┐
@@ -325,7 +325,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 └────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 📈 **Performance Highlights** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
+### 📈 **Performance Highlights**
 
 <div align="center">
 
@@ -351,7 +351,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 
 </div>
 
-#### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/> 🧬 **Microarchitectural Details** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"/>
+#### 🧬 **Microarchitectural Details**
 
 | Component | Implementation |
 |-----------|---------------|
@@ -375,7 +375,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 
 <br/>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> ⚡ AI Signal Processing Engine <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
+### ⚡ AI Signal Processing Engine
 
 <div align="center">
 
@@ -397,7 +397,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 🔬 FPGA Experimental Lab <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
+### 🔬 FPGA Experimental Lab
 
 <div align="center">
 
@@ -420,7 +420,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"/> GitHub Analytics <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> GitHub Analytics <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
 
 <div align="center">
 
@@ -462,7 +462,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/235294025-8c12e8a4-73bb-4b71-af24-56e9fe0ef95a.gif" width="35"/> Connect With Me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> Connect With Me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
 
 <div align="center">
 
@@ -478,10 +478,6 @@ I architect **next-generation compute systems** at the silicon level, specializi
 <a href="mailto:sougatachandra338@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/Sougata0204">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-</a>
 
 <br/><br/>
 
@@ -490,7 +486,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 
 <br/><br/>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/> 💡 **Open to Collaborations** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22"/>
+### 💡 **Open to Collaborations**
 
 | Area | Interest |
 |:----:|:--------:|
