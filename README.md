@@ -241,7 +241,9 @@ I architect **next-generation compute systems** at the silicon level, specializi
 &nbsp;
 <img src="https://img.shields.io/badge/⚡_TYPE-GPU_MICROARCHITECTURE-845EF7?style=for-the-badge&labelColor=000000"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🧬_CORES-4000+-FF6B6B?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🧬_CORES-64-FF6B6B?style=for-the-badge&labelColor=000000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🔥_THREADS-4000+-00F7FF?style=for-the-badge&labelColor=000000"/>
 
 <br/><br/>
 
@@ -293,7 +295,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 <td width="50%">
 
 #### 🔷 **Compute Architecture**
-- ⚡ **4000+ Logical Execution Cores**
+- ⚡ **64 Physical Cores, 4000+ Threads**
 - 🧊 **4×4×4 3D Cube Mesh Topology**
 - 🔄 **Zero-Contention Memory Access**
 - ⏱️ **Deterministic Execution Pipeline**
@@ -332,7 +334,7 @@ I architect **next-generation compute systems** at the silicon level, specializi
 | Metric | Specification |
 |:------:|:-------------:|
 | **Topology** | 4×4×4 Cube Mesh |
-| **Core Count** | 4000+ Execution Units |
+| **Core Count** | 64 Physical Cores |
 | **Memory Model** | Deterministic Routing |
 | **Pipeline Stages** | Multi-Stage Execution |
 | **Verification** | C++ + SystemVerilog |
@@ -357,8 +359,9 @@ I architect **next-generation compute systems** at the silicon level, specializi
 |-----------|---------------|
 | **Topology Type** | 3D Cube Mesh Network-on-Chip |
 | **Node Configuration** | 4×4×4 = 64 Physical Nodes |
-| **Cores per Node** | 62+ Logical Execution Units |
-| **Total Core Count** | 4000+ Parallel Compute Cores |
+| **Cores per Node** | 1 Physical Core per Node |
+| **Total Core Count** | 64 Physical Cores |
+| **Thread Count** | 4000+ Parallel Compute Threads |
 | **Interconnect** | Deterministic Mesh Routing |
 | **Memory Hierarchy** | L1 → L2 → Global Memory |
 | **Execution Model** | SIMT-style with Extensions |
