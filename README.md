@@ -1,28 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00F7FF&height=250&section=header&text=Sougata%20Chandra&fontSize=45&fontColor=00F7FF&animation=twinkling&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0f2027,60:203a43,100:00F7FF&height=260&section=header&text=Sougata%20Chandra&fontSize=48&fontColor=00F7FF&animation=twinkling&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Driven+Hardware+Architect;Ultra+Low+Latency+System+Designer;High+Frequency+Trading+Enthusiast;SystemVerilog+%7C+C%2B%2B+%7C+AI+Acceleration" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=950&lines=AI+Accelerated+Hardware+Architect;SystemVerilog+%7C+Verilog+%7C+RTL+Design;Ultra+Low+Latency+System+Designer;Machine+Learning+%7C+Deep+Learning;HFT+Infrastructure+Engineer"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
-
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="260"/>
 </div>
 
 ---
 
-# 🤖 About Me
+<div align="center">
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%"/>
+</div>
 
-⚡ Electronics + AI Accelerated Hardware  
-🧠 Deep System Level Thinker  
-🚀 Ultra Low Latency Architecture  
-📊 HFT Performance Engineering  
-🔬 Research Focused Innovator  
+---
+
+# 🧠 Hardware Core Identity
+
+⚡ AI + Electronics Convergence  
+🔬 Research Driven Architecture  
+🧩 RTL & FPGA Level Thinking  
+🚀 Ultra Low Latency Compute Systems  
+📊 High Frequency Trading Optimization  
+🖥 Deterministic Silicon Engineering  
 
 ---
 
@@ -37,13 +42,21 @@
 
 ---
 
-# ⚙️ Tech Matrix
+# ⚙️ Silicon & AI Tech Stack
 
 <div align="center">
+
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00F7FF?style=for-the-badge&logo=verilog&logoColor=black)
+![Verilog](https://img.shields.io/badge/Verilog-00F7FF?style=for-the-badge&logo=verilog&logoColor=black)
+![RTL Design](https://img.shields.io/badge/RTL-00F7FF?style=for-the-badge&logo=logic&logoColor=black)
+![FPGA](https://img.shields.io/badge/FPGA-00F7FF?style=for-the-badge&logo=intel&logoColor=black)
 
 ![C](https://img.shields.io/badge/C-00F7FF?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00F7FF?style=for-the-badge&logo=c%2B%2B&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-00F7FF?style=for-the-badge&logo=python&logoColor=black)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00F7FF?style=for-the-badge&logo=pytorch&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-00F7FF?style=for-the-badge&logo=PyTorch&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-00F7FF?style=for-the-badge&logo=opencv&logoColor=black)
 
@@ -51,7 +64,7 @@
 
 ---
 
-# 📊 Neural Activity
+# 📊 Neural Execution Graph
 
 <div align="center">
 
@@ -67,18 +80,15 @@
 ---
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="350"/>
-
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
 </div>
 
 ---
 
 <div align="center">
 
-### ⚡ Designing deterministic silicon for probabilistic intelligence ⚡
+### ⚡ Architecting deterministic silicon for probabilistic intelligence ⚡
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0f2027,100:000000&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:203a43,100:000000&height=120&section=footer"/>
