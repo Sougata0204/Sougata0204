@@ -53,6 +53,58 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
+<!-- ══════════════ 🔴 LIVE STATUS PANEL ══════════════ -->
+
+<div align="center">
+
+## 🔴 &nbsp; L I V E &nbsp; S T A T U S
+
+<table>
+<tr>
+<td align="center" width="220">
+
+**🔥 Currently Building**
+<br/>
+<img src="https://img.shields.io/badge/GridX³-GPU_Microarch-00F7FF?style=for-the-badge&logo=nvidia&logoColor=black&labelColor=000000"/>
+<br/>
+<sub>4×4×4 Cube Mesh RTL</sub>
+
+</td>
+<td align="center" width="220">
+
+**📖 Currently Learning**
+<br/>
+<img src="https://img.shields.io/badge/ASIC-Tape--out_Flow-845EF7?style=for-the-badge&logo=cadence&logoColor=white&labelColor=000000"/>
+<br/>
+<sub>Physical Design & DRC</sub>
+
+</td>
+<td align="center" width="220">
+
+**🎯 Next Target**
+<br/>
+<img src="https://img.shields.io/badge/HBM2E-Memory_Integration-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000"/>
+<br/>
+<sub>PCIe + HBM subsystem</sub>
+
+</td>
+<td align="center" width="220">
+
+**⚡ Open To**
+<br/>
+<img src="https://img.shields.io/badge/Research-Collaboration-00D4AA?style=for-the-badge&logoColor=white&labelColor=000000"/>
+<br/>
+<sub>GPU / AI Hardware</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> About Me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
 
 <div align="center">
@@ -99,6 +151,54 @@ I architect **next-generation compute systems** at the silicon level, specializi
 > *"Silicon dreams in binary, executes in parallel, and thinks deterministically."*
 
 <br clear="right"/>
+
+<!-- Animated Neon Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- ══════════════ ⚡ SKILL PROFICIENCY ══════════════ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> Skill Proficiency <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
+
+<div align="center">
+
+<br/>
+
+<table width="80%">
+<tr>
+<td width="35%" align="right" valign="middle"><b>GPU Microarchitecture</b></td>
+<td width="65%" align="left" valign="middle"><img src="https://img.shields.io/badge/██████████████████░░-89%25-00F7FF?style=flat-square&labelColor=0d1117"/></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>SystemVerilog / RTL</b></td>
+<td align="left" valign="middle"><img src="https://img.shields.io/badge/█████████████████░░░-84%25-00F7FF?style=flat-square&labelColor=0d1117"/></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>Verilog / VHDL</b></td>
+<td align="left" valign="middle"><img src="https://img.shields.io/badge/███████████████░░░░░-74%25-00D4AA?style=flat-square&labelColor=0d1117"/></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>FPGA Design</b></td>
+<td align="left" valign="middle"><img src="https://img.shields.io/badge/██████████████░░░░░░-72%25-00D4AA?style=flat-square&labelColor=0d1117"/></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>C / C++</b></td>
+<td align="left" valign="middle"><img src="https://img.shields.io/badge/██████████████░░░░░░-72%25-845EF7?style=flat-square&labelColor=0d1117"/></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>Python</b></td>
+<td align="left" valign="middle"><img src="https://img.shields.io/badge/██████████████░░░░░░-69%25-FF6B6B?style=flat-square&labelColor=0d1117"/></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>CUDA</b></td>
+<td align="left" valign="middle"><img src="https://img.shields.io/badge/█████████████░░░░░░░-66%25-76B900?style=flat-square&labelColor=0d1117"/></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>PyTorch / TensorFlow</b></td>
+<td align="left" valign="middle"><img src="https://img.shields.io/badge/████████████░░░░░░░░-59%25-845EF7?style=flat-square&labelColor=0d1117"/></td>
+</tr>
+</table>
+
+</div>
 
 <!-- Animated Neon Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -168,8 +268,8 @@ I architect **next-generation compute systems** at the silicon level, specializi
 <br/><b>Python</b>
 </td>
 <td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=rust" width="65" height="65"/>
-<br/><b>Rust</b>
+<img src="https://skillicons.dev/icons?i=cuda" width="65" height="65"/>
+<br/><b>CUDA</b>
 </td>
 <td align="center" width="140">
 <img src="https://skillicons.dev/icons?i=bash" width="65" height="65"/>
@@ -212,6 +312,66 @@ I architect **next-generation compute systems** at the silicon level, specializi
 
 <!-- Animated Cat Playing -->
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="350"/>
+
+</div>
+
+<!-- Animated Neon Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- ══════════════ 📊 ENGINEERING METRICS ══════════════ -->
+
+<div align="center">
+
+## 📊 &nbsp; E N G I N E E R I N G &nbsp; M E T R I C S
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="180">
+<br/>
+<img src="https://img.shields.io/badge/64-CORES-00F7FF?style=for-the-badge&labelColor=000000&logo=nvidia"/>
+<br/><sub>GridX³ Physical Cores</sub><br/><br/>
+</td>
+<td align="center" width="180">
+<br/>
+<img src="https://img.shields.io/badge/4000+-THREADS-845EF7?style=for-the-badge&labelColor=000000"/>
+<br/><sub>Parallel Compute Threads</sub><br/><br/>
+</td>
+<td align="center" width="180">
+<br/>
+<img src="https://img.shields.io/badge/3D-MESH_NoC-FF6B6B?style=for-the-badge&labelColor=000000"/>
+<br/><sub>4×4×4 Cube Topology</sub><br/><br/>
+</td>
+<td align="center" width="180">
+<br/>
+<img src="https://img.shields.io/badge/0-CONTENTION-00D4AA?style=for-the-badge&labelColor=000000"/>
+<br/><sub>Memory Access Pattern</sub><br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<img src="https://img.shields.io/badge/ASIC-READY-00F7FF?style=for-the-badge&labelColor=000000&logo=cadence"/>
+<br/><sub>Synthesizable RTL</sub><br/><br/>
+</td>
+<td align="center">
+<br/>
+<img src="https://img.shields.io/badge/GTO-SCHEDULER-845EF7?style=for-the-badge&labelColor=000000"/>
+<br/><sub>Greedy Then Oldest</sub><br/><br/>
+</td>
+<td align="center">
+<br/>
+<img src="https://img.shields.io/badge/SIMT-EXECUTION-FF6B6B?style=for-the-badge&labelColor=000000"/>
+<br/><sub>+ Divergence Tracking</sub><br/><br/>
+</td>
+<td align="center">
+<br/>
+<img src="https://img.shields.io/badge/L1→L2→HBM-MEMORY-00D4AA?style=for-the-badge&labelColor=000000"/>
+<br/><sub>Hierarchy Design</sub><br/><br/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -376,7 +536,28 @@ I architect **next-generation compute systems** at the silicon level, specializi
 
 ---
 
-<br/>
+<!-- ══════════════ 🗺️ PROJECT ROADMAP ══════════════ -->
+
+<div align="center">
+
+## 🗺️ &nbsp; P R O J E C T &nbsp; R O A D M A P
+
+```
+ 2024 ──────────────────────────────────────────────────────── 2026 →
+
+  [Q3 2024]          [Q4 2024]         [Q1 2025]        [NOW]           [NEXT]
+     │                   │                 │               │               │
+  ┌──┴──┐            ┌───┴───┐         ┌───┴───┐       ┌───┴───┐      ┌───┴───┐
+  │ RTL │            │ Mesh  │         │Tensor │       │ ASIC  │      │  HBM  │
+  │Core │──────────▶│  NoC  │────────▶│ Core  │──────▶│ Flow  │─────▶│  Mem  │
+  │     │            │Design │         │ + ALU │       │ Prep  │      │Integr.│
+  └─────┘            └───────┘         └───────┘       └───────┘      └───────┘
+  ✅ Done             ✅ Done            ✅ Done         🔄 Active      📋 Planned
+```
+
+</div>
+
+---
 
 ### ⚡ AI Signal Processing Engine
 
