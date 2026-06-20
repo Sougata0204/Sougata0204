@@ -15,12 +15,10 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Sougata0204&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sougata-chandra-875716224/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sougata0204)
 </div>
 
 ---
@@ -52,11 +50,11 @@ module student #(
  └─────────────────────────────────────────────────────────────┘
 ```
 
-- 🎓 &nbsp; Electronics & Communication Engineering undergraduate
-- 🔬 &nbsp; Learning through hands-on RTL implementation and simulation
-- 🧠 &nbsp; Exploring GPU microarchitecture and RISC-V processor design
-- 📖 &nbsp; Working through Hennessy & Patterson, Harris & Harris
-- 🛠️ &nbsp; Building things in SystemVerilog, Verilog, and Python
+- &nbsp; Electronics & Communication Engineering undergraduate
+-  &nbsp; Learning through hands-on RTL implementation and simulation
+-  &nbsp; Exploring GPU microarchitecture and RISC-V processor design
+-  &nbsp; Working through Hennessy & Patterson, Harris & Harris
+-  &nbsp; Building things in SystemVerilog, Verilog, and Python
 
 ---
 
@@ -83,12 +81,12 @@ module student #(
 
 | Area | What I'm Exploring |
 |------|-------------------|
-| 🖥️ **RTL Design** | Writing synthesizable SystemVerilog, clean module hierarchies, design for testability |
-| ⚙️ **Processor Architecture** | Pipelining, hazard handling, branch prediction, out-of-order concepts |
-| 🎮 **GPU Architecture** | SIMT execution, warp scheduling, memory hierarchy (L1/L2/DRAM), SM design |
-| 🤖 **AI Accelerators** | Systolic arrays, dataflow architectures, MAC units, weight/activation memory tradeoffs |
-| 🔩 **ASIC Flow** | RTL → Synthesis → STA fundamentals using open-source EDA tools |
-| ✅ **Verification** | UVM basics, constrained random testing, coverage-driven verification |
+|  **RTL Design** | Writing synthesizable SystemVerilog, clean module hierarchies, design for testability |
+|  **Processor Architecture** | Pipelining, hazard handling, branch prediction, out-of-order concepts |
+|  **GPU Architecture** | SIMT execution, warp scheduling, memory hierarchy (L1/L2/DRAM), SM design |
+|  **AI Accelerators** | Systolic arrays, dataflow architectures, MAC units, weight/activation memory tradeoffs |
+|  **ASIC Flow** | RTL → Synthesis → STA fundamentals using open-source EDA tools |
+|  **Verification** | UVM basics, constrained random testing, coverage-driven verification |
 
 ---
 
@@ -126,7 +124,7 @@ module student #(
 
 <br/>
 
-### 🔲 &nbsp; GridX³ — Experimental GPU Architecture
+###  &nbsp; GridX³ — Experimental GPU Architecture
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
@@ -159,7 +157,7 @@ Architecture Sketch:
 
 ---
 
-### ⚡ &nbsp; Nexora SIMD — Parameterized SIMD Architecture
+###  &nbsp; Nexora SIMD — Parameterized SIMD Architecture
 
 ```
   Parameter: LANES = N
@@ -197,7 +195,7 @@ Architecture Sketch:
 
 ---
 
-### 🧩 &nbsp; RISC-V Learning Core — Educational CPU Implementation
+###  &nbsp; RISC-V Learning Core — Educational CPU Implementation
 
 ```
   RV32I Base ISA — Pipelined Datapath
@@ -291,21 +289,21 @@ Architecture Sketch:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sougata0204&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sougata0204&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b35&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sougata0204&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sougata0204&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b35&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -315,12 +313,12 @@ Architecture Sketch:
 ## `> bookshelf --active`
 
 ```
- 📘  Computer Organization and Design: RISC-V Edition  — Patterson & Hennessy
- 📗  Digital Design and Computer Architecture          — Harris & Harris
- 📙  Computer Architecture: A Quantitative Approach    — Hennessy & Patterson
- 📕  SystemVerilog for Design                         — Sutherland et al.
- 📓  The RISC-V Reader                               — Patterson & Waterman
- 📄  GPU Architecture Papers (Volta, Turing, Ampere whitepapers)
+   Computer Organization and Design: RISC-V Edition  — Patterson & Hennessy
+   Digital Design and Computer Architecture          — Harris & Harris
+   Computer Architecture: A Quantitative Approach    — Hennessy & Patterson
+   SystemVerilog for Design                         — Sutherland et al.
+   The RISC-V Reader                               — Patterson & Waterman
+   GPU Architecture Papers (Volta, Turing, Ampere whitepapers)
 ```
 
 ---
@@ -340,11 +338,9 @@ Architecture Sketch:
   └──────────────────────────────────────────────┘
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sougata-chandra-875716224/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sougatachandra338@gmail.com)
 
 <br/>
 
