@@ -64,17 +64,17 @@ module student #(
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║              CURRENT LEARNING ROADMAP                    ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║   [█████████░░░]  RTL Design & Verification              ║
-║   [███████░░░░░]  RISC-V ISA & Processor Microarchitecture║
-║   [██████░░░░░░]  GPU Architecture & Parallel Compute    ║
-║   [████░░░░░░░░]  AI Accelerator Architecture            ║
-║   [███░░░░░░░░░]  ASIC Physical Design Flow              ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║              CURRENT LEARNING ROADMAP                          ║
+╠════════════════════════════════════════════════════════════════╣
+║                                                                ║
+║   [█████████░░░]  RTL Design & Verification                    ║
+║   [███████░░░░░]  RISC-V ISA & Processor Microarchitecture     ║
+║   [██████░░░░░░]  GPU Architecture & Parallel Compute          ║
+║   [████░░░░░░░░]  AI Accelerator Architecture                  ║
+║   [███░░░░░░░░░]  ASIC Physical Design Flow                    ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -107,12 +107,12 @@ module student #(
           │                    │                       │
           └────────────────────┼───────────────────────┘
                                │
-                    ┌──────────▼──────────┐
-                    │   RTL IMPLEMENTATION │
-                    │                     │
+                    ┌──────────▼──────────────────┐
+                    │   RTL IMPLEMENTATION        │
+                    │                             │
                     │  SystemVerilog  ·  Verilog  │
                     │  Testbenches  ·  Simulation │
-                    └─────────────────────┘
+                    └─────────────────────────────┘
 ```
 
 </div>
@@ -134,18 +134,18 @@ Architecture Sketch:
   ┌──────────────────────────────────────────┐
   │              GridX³ Core                 │
   │                                          │
-  │  ┌──────────┐   ┌──────────┐            │
-  │  │  SM / CU  │   │  SM / CU  │  · · ·  │
-  │  │  ────────  │   │  ────────  │         │
-  │  │ Warp Sched│   │ Warp Sched│         │
-  │  │ ALU Array │   │ ALU Array │         │
-  │  │ Reg File  │   │ Reg File  │         │
-  │  └────┬─────┘   └────┬─────┘          │
-  │       │               │                 │
-  │  ─────┴───────────────┴──────────────  │
-  │          Shared Memory Fabric           │
-  │  ─────────────────────────────────────  │
-  │        L2 Cache / Memory Controller     │
+  │  ┌───────────┐   ┌─────────────┐         │
+  │  │  SM / CU  │   │  SM / CU    │  · · ·  │
+  │  │  ──────── │   │  ────────   │         │
+  │  │ Warp Sched│   │ Warp Sched  │         │
+  │  │ ALU Array │   │ ALU Array   │         │
+  │  │ Reg File  │   │ Reg File    │         │
+  │  └────┬──────┘   └────┬────────┘         │
+  │       │               │                  │
+  │  ─────┴───────────────┴──────────────    │
+  │          Shared Memory Fabric           `│
+  │  ─────────────────────────────────────  `│
+  │        L2 Cache / Memory Controller     `│
   └──────────────────────────────────────────┘
 ```
 
@@ -167,17 +167,17 @@ Architecture Sketch:
   │                                                        │
   │  Control Unit ──► Instruction Decode ──► Lane Dispatch │
   │                                              │         │
-  │         ┌───────────────────────────────────┤         │
-  │         │                                   │         │
-  │  ┌──────▼───┐  ┌──────────┐  ┌──────────┐  │  · · · │
-  │  │  Lane 0  │  │  Lane 1  │  │  Lane 2  │  │        │
-  │  │ ───────  │  │ ───────  │  │ ───────  │  │        │
-  │  │  ALU     │  │  ALU     │  │  ALU     │  │        │
-  │  │  RF Slice│  │  RF Slice│  │  RF Slice│  │        │
-  │  │  Mask Bit│  │  Mask Bit│  │  Mask Bit│  │        │
-  │  └──────────┘  └──────────┘  └──────────┘  │        │
-  │                                              │        │
-  │              Lane Mask Register ◄───────────┘        │
+  │         ┌────────────────────────────────────┤         │
+  │         │                                    │         │
+  │  ┌──────▼───┐  ┌──────────┐  ┌──────────┐    │  · · ·  │
+  │  │  Lane 0  │  │  Lane 1  │  │  Lane 2  │    │         │
+  │  │ ───────  │  │ ───────  │  │ ───────  │    │         │
+  │  │  ALU     │  │  ALU     │  │  ALU     │    │         │
+  │  │  RF Slice│  │  RF Slice│  │  RF Slice│    │         │
+  │  │  Mask Bit│  │  Mask Bit│  │  Mask Bit│    │         │
+  │  └──────────┘  └──────────┘  └──────────┘    │         │
+  │                                              │         │
+  │              Lane Mask Register  ◄───────────┘         │
   └────────────────────────────────────────────────────────┘
 ```
 
@@ -330,12 +330,12 @@ Architecture Sketch:
 
 ```
   Open to:
-  ┌──────────────────────────────────────────────┐
+  ┌───────────────────────────────────────────────┐
   │  • Architecture discussions and paper reviews │
   │  • RTL review and feedback on my designs      │
   │  • Collaboration on open-source hardware      │
   │  • Learning from engineers in the field       │
-  └──────────────────────────────────────────────┘
+  └───────────────────────────────────────────────┘
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sougata-chandra-875716224/)
