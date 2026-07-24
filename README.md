@@ -337,7 +337,34 @@ Architecture Sketch:
   │  • Learning from engineers in the field       │
   └───────────────────────────────────────────────┘
 ```
+<br>
 
+---
+
+## 🏅 Verified Certifications
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/ff3c5d7f-32bc-4216-8bc5-0160b1897341/public_url">
+  <img src="./assets/riscv-lfd110.png" width="180" alt="Linux Foundation LFD110 Badge"/>
+</a>
+
+<br><br>
+
+**Linux Foundation**
+
+**LFD110 – Introduction to RISC-V**
+
+<a href="https://www.credly.com/badges/ff3c5d7f-32bc-4216-8bc5-0160b1897341/public_url">
+<br>
+🔗 Verify Credential
+</a>
+
+</div>
+
+---
+
+<br>
 </div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sougata-chandra-875716224/)
 &nbsp;
